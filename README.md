@@ -1,5 +1,5 @@
-Run tests simulating GET request within spring stack.<br/>
-This example uses a simple Mock.<br/>
+Test with Mockito in a spring application.<br/>
+This example uses a simple @Mock.<br/>
 <br/>
 compile & test :<br/>
 mvn spring-boot:run<br/>
